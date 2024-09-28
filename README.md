@@ -1,6 +1,6 @@
 # DocHub
 
-A project for the Startup in ICT course - MSc Computer Science - Università degli Studi di Padova.
+A project for the Startup in ICT course - MSc Computer Science - University of Padova.
 
 ## Simulate your Startup!
 
